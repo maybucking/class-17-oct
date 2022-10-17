@@ -1,0 +1,16 @@
+---
+title: "Class-17-oct2022"
+author: "May"
+date: "10/17/2022"
+output: html_document
+---
+
+Set things up
+```{r}
+rm(list = ls())
+library(ggplot2)
+library(here)
+library(dplyr)
+```
+Ready for action!
+
